@@ -1,0 +1,16 @@
+div.col-md-6 {
+    position: relative;
+    width: 400px;
+    height: 200px;
+} 
+
+div.col-sm-12{
+    position: absolute;
+    top: 0px;
+    right:-500px;
+    width: 200px;
+    height: 100px;
+}
+  /* Box rules: percentages define anchors (i.e. position of each box relative to enclosing box) */
+  
+ 
